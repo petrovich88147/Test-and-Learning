@@ -1,2 +1,2 @@
-MyFirst.java
- MyFirst
+ru/sandbox/MyFirst.java
+ ru.sandbox.MyFirst

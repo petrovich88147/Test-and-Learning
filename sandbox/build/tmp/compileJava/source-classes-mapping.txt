@@ -1,2 +1,6 @@
 ru/sandbox/MyFirst.java
  ru.sandbox.MyFirst
+ru/sandbox/Rectangle.java
+ ru.sandbox.Rectangle
+ru/sandbox/Square.java
+ ru.sandbox.Square
